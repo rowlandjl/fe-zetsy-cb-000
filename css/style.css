@@ -43,3 +43,8 @@ p {
 }
 
 /*  footer  */
+
+footer {
+	text-align: right;
+	background: #fff;
+}
